@@ -2,7 +2,7 @@ Hello! My name is Kaush 👾
 
 I am a 3rd year student at UCSC studying Computer Science  
 
-My forte is programming in Python, C, and C++. I currently have a good amount of experience in frontend development/web design but am trying to work on OS development and applied ML.  
+My forte is programming in Python, C, and C++. I currently have a good amount of experience in ML & frontend development but am trying get better at OS development and neural networks.  
 
 In my free time I play the violin, read scifi novels, and play on my 3ds (fav game is Ocarina of Time ). 
 
