@@ -6,7 +6,7 @@ I currently have a good amount of experience in ML & frontend development and am
 
 In my free time I play the violin, read scifi novels, and play on my 3DS (fav game is Ocarina of Time)  
 
-<a href="www.kaaush.com">Check out my Website!</a>  
+<a href="kaaush.com">Check out my Website!</a>  
   
 <a href="https://www.goodreads.com/user/show/196059049-kaush">and here's what I've been reading...</a>  
 
